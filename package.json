@@ -1,0 +1,22 @@
+☺{
+  "name": "frontend-workflow",
+  "version": "0.1.0",
+  "description": "Frontend Workflow with Node and Browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "Node",
+    "Javascript",
+    "Browserify",
+    "Sass",
+    "Compass"
+  ],
+  "author": "Hans Schenker",
+  "license": "ISC"
+}
